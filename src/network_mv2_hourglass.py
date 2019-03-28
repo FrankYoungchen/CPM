@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 18-4-12 5:12 PM
-# @Author  : edvard_hua@live.com
-# @FileName: network_mv2_cpm.py
-# @Software: PyCharm
-
 import tensorflow as tf
 import tensorflow.contrib.slim as slim
 
