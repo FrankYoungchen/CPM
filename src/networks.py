@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 18-3-6 3:20 PM
-# @Author  : zengzihua@huya.com
-# @FileName: data_filter.py
-# @Software: PyCharm
-
 import network_mv2_cpm
 import network_mv2_hourglass
 
