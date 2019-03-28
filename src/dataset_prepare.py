@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time    : 18-3-6 3:20 PM
-# @Author  : edvard_hua@live.com
-# @FileName: data_prepare.py
-# @Software: PyCharm
+
 
 import numpy as np
 import cv2
