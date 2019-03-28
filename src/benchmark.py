@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time    : 18-7-10 上午9:41
-# @Author  : zengzihua@huya.com
-# @FileName: benchmark.py
-# @Software: PyCharm
 
 import tensorflow as tf
 import numpy as np
